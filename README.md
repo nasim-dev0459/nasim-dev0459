@@ -1,6 +1,6 @@
 # MD Nasim Howladar
 Software Engineer | MERN Stack | Flutter Developer
-
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nasim-dev0459&theme=radical&hide_border=true)
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=nasim_dev)](https://codeforces.com/profile/nasim_dev)
 
 
@@ -10,7 +10,6 @@ Software Engineer | MERN Stack | Flutter Developer
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge" />
   </a>
 </p>
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nasim-dev0459&theme=radical&hide_border=true)
 ### 🛠 Languages & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,py,tensorflow,flutter,cpp,git,github" />
