@@ -1,9 +1,9 @@
 # MD Nasim Howladar
 Software Engineer | MERN Stack | Flutter Developer
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nasim-dev0459&theme=radical&hide_border=true)
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=nasim_dev)](https://codeforces.com/profile/nasim_dev)
-
+### 📊 Statistics & Activity
+| **Codeforces Stats** | **Snake Animation** |
+| :---: | :---: |
+| [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=nasim_dev)](https://codeforces.com/profile/nasim_dev) | ![Snake animation](https://raw.githubusercontent.com/nasim-dev0459/nasim-dev0459/output/github-contribution-grid-snake.svg) |
 
 ### 🧬 Kaggle Profile
 <p align="left">
