@@ -9,4 +9,6 @@ Software Engineer | MERN Stack | Flutter Developer
 </p>
 
 ### 📊 GitHub Statistics
-[![Nasim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasim-dev0459&show_icons=true&theme=radical)](https://github.com/nasim-dev0459)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nasim-dev0459&show_icons=true&theme=radical" alt="Nasim's GitHub Stats" />
+</p>
