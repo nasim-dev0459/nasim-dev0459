@@ -2,7 +2,8 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *" 
+    # প্রতি ২৪ ঘণ্টা পর পর অটোমেটিক রান হবে
+    - cron: "0 0 * * *" 
   workflow_dispatch:
   push:
     branches:
@@ -10,6 +11,8 @@ on:
 
 jobs:
   generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
     
