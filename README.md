@@ -11,7 +11,7 @@ Software Engineer | MERN Stack | Flutter Developer
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge" />
   </a>
 </p>
-### 🛠Languages & Tools
+### 🛠 Languages & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,py,tensorflow,flutter,cpp,git,github" />
 </p>
