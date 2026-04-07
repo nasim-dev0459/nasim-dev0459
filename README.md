@@ -19,4 +19,3 @@ Software Engineer | MERN Stack | Flutter Developer
 ![Stars](https://img.shields.io/github/stars/nasim-dev0459?style=flat-square&label=Total%20Stars&color=gold)
 ![Followers](https://img.shields.io/github/followers/nasim-dev0459?style=flat-square&label=Followers&color=blue)
 ![Repo Count](https://img.shields.io/badge/Repositories-14-green?style=flat-square)
-![Snake animation](https://raw.githubusercontent.com/nasim-dev0459/nasim-dev0459/output/github-contribution-grid-snake.svg)
