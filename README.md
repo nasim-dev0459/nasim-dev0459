@@ -33,7 +33,8 @@ Software Engineer | MERN Stack | Flutter Developer
   <a href="mailto:hmnasim04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
-<a href="https://nasim-dev0459.github.io/my-portfolio/" target="_blank">
+  <a href="https://nasim-dev0459.github.io/my-portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" />
 </a>
+</p>
+
