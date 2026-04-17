@@ -2,7 +2,7 @@
   <img src="https://github.com/nasim-dev0459/nasim-dev0459/blob/main/github_baner.png?raw=true" alt="Nasim Banner" width="100%">
 </p>
 
-# Hi there, I'm MD Nasim Howladar 👋 
+# Hi there, I'm MD Nasim Howladar  
 <img src="https://komarev.com/ghpvc/?username=nasim-dev0459&label=Profile%20views&color=0e75b6&style=flat" align="right" alt="nasim-dev0459" />
 
 ### <p align="left"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Software+Engineer;MERN+Stack+Developer;Flutter+Developer;Competitive+Programmer" alt="Typing SVG" /> </p>
