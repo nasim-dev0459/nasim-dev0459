@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nasim-dev0459/nasim-dev0459/blob/main/github_baner.png?raw=true" alt="Nasim Banner" width="100%"/>
+  <img src="https://github.com/nasim-dev0459/nasim-dev0459/blob/main/github_baner.png?raw=true" alt="Nasim Banner" width="100%">
 </p>
 
 # Hi there, I'm MD Nasim Howladar  
