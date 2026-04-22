@@ -1,6 +1,6 @@
-<p align="center">
+//<p align="center">
   <img src="https://github.com/nasim-dev0459/nasim-dev0459/blob/main/github_baner.png?raw=true" alt="Nasim Banner" width="100%">
-</p>
+</p>//
 
 # Hi there, I'm MD Nasim Howladar  
 <img src="https://komarev.com/ghpvc/?username=nasim-dev0459&label=Profile%20views&color=0e75b6&style=flat" align="right" alt="nasim-dev0459" />
