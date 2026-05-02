@@ -4,11 +4,10 @@
 ### <p align="left"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Software+Engineer;MERN+Stack+Developer;Flutter+Developer;Competitive+Programmer" alt="Typing SVG" /> </p>
 
 ---
-
 ### 📊 GitHub Activity & Skills
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nasim-dev0459&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Nasim's GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nasim-dev0459&layout=compact&theme=radical&hide=css,html" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nasim-dev0459&show_icons=true&theme=radical&rank_icon=github&count_private=true" width="48%" alt="Nasim's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nasim-dev0459&layout=compact&theme=radical&hide=css,html" width="48%" alt="Top Languages" />
 </p>
 
 ---
