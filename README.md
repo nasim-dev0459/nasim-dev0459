@@ -12,7 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nasim-dev0459&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Nasim's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasim-dev0459&layout=compact&theme=radical&hide=css,html" alt="Top Languages" />
 </p>
-
 ---
 
 ### 🛠 Languages & Tools
