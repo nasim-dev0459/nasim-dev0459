@@ -1,5 +1,3 @@
-
-
 # Hi there, I'm MD Nasim Howladar  
 <img src="https://komarev.com/ghpvc/?username=nasim-dev0459&label=Profile%20views&color=0e75b6&style=flat" align="right" alt="nasim-dev0459" />
 
@@ -9,9 +7,10 @@
 
 ### 📊 GitHub Activity & Skills
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nasim-dev0459&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Nasim's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasim-dev0459&layout=compact&theme=radical&hide=css,html" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nasim-dev0459&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Nasim's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nasim-dev0459&layout=compact&theme=radical&hide=css,html" alt="Top Languages" />
 </p>
+
 ---
 
 ### 🛠 Languages & Tools
