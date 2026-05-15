@@ -1,3 +1,28 @@
+<!--
+README CALIBRATION MAP
+{{GITHUB_USERNAME}} = DavideStefanelli97
+{{DISPLAY_NAME}} = Davide Stefanelli
+{{PRIMARY_ROLE}} = Neuroscience-focused Biomedical Engineer
+{{SECONDARY_ROLE}} = Research Engineer in Computer Vision
+{{SUMMARY}} = Building AI-driven workflows for medical imaging, EEG analysis, and reproducible computer vision research.
+{{LINK_PORTFOLIO}} = https://example.com
+{{LINK_LINKEDIN}} = https://linkedin.com/in/your-handle
+{{LINK_EMAIL}} = [email protected]
+
+If you change {{GITHUB_USERNAME}}, update the hardcoded widget URLs in this file as well.
+-->
+
+<p align="center">
+  <img src="./assets/profile-nameplate.svg" alt="Davide Stefanelli — From brain signals to intelligent systems — AI / Computer Vision / Neuro-engineering / Neuro-imaging / NeuroScience" width="100%" />
+</p>
+
+
+
+
+
+
+
+
 # Hi there, I'm MD Nasim Howladar  
 <img src="https://komarev.com/ghpvc/?username=nasim-dev0459&label=Profile%20views&color=0e75b6&style=flat" align="right" alt="nasim-dev0459" />
 
