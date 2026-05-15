@@ -92,3 +92,16 @@
 ---
 ![Stars](https://img.shields.io/github/stars/nasim-dev0459?style=flat-square&label=Total%20Stars&color=gold)
 ![Followers](https://img.shields.io/github/followers/nasim-dev0459?style=flat-square&label=Followers&color=blue)
+## ✨ Goals
+
+* Build impactful AI-powered applications
+* Contribute to Open Source Projects
+* Publish research-based projects
+* Secure international internship & scholarship opportunities
+
+---
+
+<p align="center">
+  <b>⭐ Thanks for visiting my GitHub Profile ⭐</b><br>
+  <i>Turning ideas into impactful software solutions.</i>
+</p>
