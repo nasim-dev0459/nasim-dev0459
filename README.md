@@ -12,8 +12,30 @@
 * 📱 Flutter & Cross-Platform App Developer
 * 🔍 Looking for Internship & Research Opportunities
 * ⚡ Love building impactful projects that solve real-life problems
+## 📌 Featured Projects
 
----
+### 🔹 AI-Based Fruit Disease Detection System
+
+* Deep Learning based smart agriculture solution
+* Detects fruit diseases using CNN models
+* Focused on real-world agricultural impact
+
+### 🔹 AI Exam Monitoring System
+
+* AI-powered smart exam surveillance
+* Detects suspicious activities during exams
+* Built using Computer Vision techniques
+
+### 🔹 Pro Bill Master
+
+* Retail billing & invoice management software
+* Desktop-based business solution
+* Inventory and sales management features
+
+### 🔹 Personal Portfolio Website
+
+🌐 Portfolio:
+👉 https://nasim-dev0459.github.io/my-portfolio/
 ---
 ### 📊 GitHub Activity & Skills
 
