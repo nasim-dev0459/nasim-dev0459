@@ -3,7 +3,17 @@
 <img src="https://komarev.com/ghpvc/?username=nasim-dev0459&label=Profile%20views&color=0e75b6&style=flat" align="right" alt="nasim-dev0459" />
 
 ### <p align="left"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Software+Engineer;MERN+Stack+Developer;Flutter+Developer;Competitive+Programmer" alt="Typing SVG" /> </p>
+## 🚀 About Me
 
+* 🎓 BSc in Computer Engineering
+* 💡 Interested in Artificial Intelligence, Machine Learning & Full Stack Development
+* 🌱 Currently learning Advanced MERN Stack & AI Model Deployment
+* 🧠 Competitive Programming Enthusiast
+* 📱 Flutter & Cross-Platform App Developer
+* 🔍 Looking for Internship & Research Opportunities
+* ⚡ Love building impactful projects that solve real-life problems
+
+---
 ---
 ### 📊 GitHub Activity & Skills
 
